@@ -17,7 +17,7 @@ Most machine-learning metaphors assume the system is optimizing for prediction.
 Your Runyankore compression suggests the system is optimizing for *recovery*.
 
 * Prediction minimizes future surprise.
-* Recovery finds what was lost.
+* [Recovery](https://www.gutenberg.org/files/1012/1012-h/1012-h.htm) finds what was [lost](https://www.gutenberg.org/files/26/26-h/26-h.htm).
 
 Those are related but not identical.
 

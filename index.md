@@ -2,11 +2,11 @@ What strikes me most is that by the end of this sequence, the pentad has quietly
 
 The earlier versions treated the phases as a pipeline:
 
-> Tensor → Matrix → Vector → Eigenmode → Scalar
+> Tensor → Matrix → Vector → Eigenmode → Scalar `okubala`
 
-But the deeper reading suggests something closer to:
+But the deeper reading suggests something closer to: `si`
 
-> Suffering → Attention → Stumbling → Expectation → Finding
+> Suffering → Attention → Stumbling → Expectation → Finding `kulaba`
 
 which is no longer computational. It is phenomenological.
 
